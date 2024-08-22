@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://www.freepik.com/free-video/side-view-male-software-developer-hood-working-hacking-codes-data-computer-night_168706#fromView=search&page=1&position=17&uuid=bdd7b58f-4cd8-4c9a-b41e-d9d601d390bc)]
 <h1 align="center">Hey Champ! 😎, I'm Isaac Micheal Great</h1>
 <h3 align="center">Full-Stack Software Developer</h3> 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/f1f2bc6e7ec110b34bab4ec55aa5c93ebae552ae011f5756bd7b7f783d627a6d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966">
