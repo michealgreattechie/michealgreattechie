@@ -1,4 +1,4 @@
-<h1 align="center">Hey Champ! 😎 i'm, I'm Isaac Micheal Great</h1>
+<h1 align="center">Hey Champ! 😎 i'm, Isaac Micheal Great</h1>
 <h3 align="center">Full-Stack Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=michealgreattechie&label=Profile%20views&color=0e75b6&style=flat" alt="michealgreattechie" /> </p>
